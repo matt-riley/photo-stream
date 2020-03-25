@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: mattriley.photo
+title: mattriley.photos
 email: matt@mattriley.me
 author:
   name: Matt Riley
   email: matt@mattriley.me #optional
-  website: https://mattriley.photo
+  website: https://mattriley.photos
 description: >- # this means to ignore newlines until "baseurl:"
   Photostream
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mattriley.photo/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mattriley.photos/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mjriley1878
 github_username: matt-riley
 instagram_username: mattriley1878
